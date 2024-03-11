@@ -4,6 +4,5 @@ __pycache__
 .pyc
 .env
 media/
-migrations/
-!migrations/__init__.py
-useful commands.md
+000*_*.py
+useful-commands.md
